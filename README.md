@@ -1,7 +1,7 @@
 # pythonScraper
 Script to get data from Yellowpages.com - Business name, address, city, state, phone, postal code 
 
-If you put in the initial link at the top, it will iterate through all the states and all the pages; getting information for a specific industry in the entire United States
+If you put in the initial link at the top, it will iterate through all the states and all the pages; getting information for a specific industry in the entire United States.
 
 
 Developer download requirments:
